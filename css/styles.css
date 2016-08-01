@@ -1,0 +1,11 @@
+.card{
+  height: 260px;
+}
+
+img{
+  max-height: 200px;
+}
+
+.front_img{
+  display: none;
+}
